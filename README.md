@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusef Nee-Me
-- 👀 I’m interested in human augmentation and bionic research and projects.
+- 👀 I’m interested in human augmentation research and projects.
 - 🌱 I’m currently learning C for embeded software and electronics.
 - 📫 How to reach me: send me a mail on yusefneme@protonmail.com
 
